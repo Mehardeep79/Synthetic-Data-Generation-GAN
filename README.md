@@ -7,6 +7,8 @@
 
 This project implements a **Generative Adversarial Network (GAN)** to generate synthetic screen time data that mimics real user behavior patterns. The model learns from actual screen time data to create realistic synthetic datasets that can be used for research, testing, and analytics without compromising user privacy.
 
+!["Visualization"](assets/output.png)
+
 ### 🎯 Key Features
 
 - **🔒 Privacy-Preserving**: Generate synthetic data instead of sharing sensitive user information
