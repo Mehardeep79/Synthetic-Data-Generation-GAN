@@ -7,7 +7,11 @@
 
 This project implements a **Generative Adversarial Network (GAN)** to generate synthetic screen time data that mimics real user behavior patterns. The model learns from actual screen time data to create realistic synthetic datasets that can be used for research, testing, and analytics without compromising user privacy.
 
-!["Visualization"](assets/output.png)
+<p align="center">
+  <img src="assets/output.png" width="100%" alt="Visualizations"><br>
+  <em>Real Data vs Synthetic Data Plot (For all 3 Features)</em>
+</p>
+
 
 ### 🎯 Key Features
 
@@ -52,7 +56,7 @@ Screen Time Data (3D) → Dense(512) → Dense(256) → Dense(128) → Dense(1) 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/synthetic-data-generation-gan.git
+   git clone https://github.com/Mehardeep79/Synthetic-Data-Generation-GAN.git
    cd synthetic-data-generation-gan
    ```
 
@@ -172,9 +176,9 @@ synthetic_df.to_csv('outputs/my_synthetic_data.csv', index=False)
 ## 👨‍💻 Author
 
 **Mehardeep Singh Sandhu**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Mehardeep79](https://github.com/Mehardeep79)
+- LinkedIn: [Mehardeep Singh Sandhu](https://www.linkedin.com/in/mehardeep-singh-sandhu/)
+- Email: sandhu.mehardeep792003@gmail.com
 
 
 
